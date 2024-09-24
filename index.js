@@ -1,4 +1,4 @@
-import serveHotApi from "api-hot";
+import serveHotApi from "dailyhot-api";
 
 serveHotApi();
 
