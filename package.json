@@ -4,7 +4,7 @@
   "description": "An Api on Today's Hot list",
   "type": "module",
   "license": "MIT",
-  "author": "imsyy",
+  "author": "alue",
   "main": "index.js",
   "scripts": {
     "build": "node index.js",
